@@ -1,1 +1,1 @@
-# BI-Content-management-system
+# BI-Content-management-tool
